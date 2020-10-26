@@ -9,7 +9,7 @@ from vars import *
 
 user = User()
 
-API_TOKEN = '1281234937:AAEmoEo3U1XlE1gGCe1pz03U66HXu1v3EvQ'
+API_TOKEN = ################################
 
 bot = telebot.TeleBot(API_TOKEN)
 
